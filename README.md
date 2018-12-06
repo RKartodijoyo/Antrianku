@@ -1,4 +1,6 @@
-# THIS PROGRAM BUILD
+# ANTRIANKU 
+
+THIS PROGRAM BUILD
 
 Qt Creator 4.0.3 Based on Qt 5.6.1 (GCC 4.9.1 20140922 (Red Hat 4.9.1-10), 64 bit)
 
