@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>belas.wav</file>
+        <file>delapan.wav</file>
+        <file>dua.wav</file>
+        <file>empat.wav</file>
+        <file>enam.wav</file>
+        <file>lima.wav</file>
+        <file>puluh.wav</file>
+        <file>satu.wav</file>
+        <file>sebelas.wav</file>
+        <file>sembilan.wav</file>
+        <file>sepuluh.wav</file>
+        <file>tiga.wav</file>
+        <file>tujuh.wav</file>
+        <file>Nomor_Antrian.wav</file>
+        <file>di_loket.wav</file>
+    </qresource>
+</RCC>
