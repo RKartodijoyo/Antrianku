@@ -1,4 +1,4 @@
-#This Program is build
+# THIS PROGRAM BUILD
 
 Qt Creator 4.0.3 Based on Qt 5.6.1 (GCC 4.9.1 20140922 (Red Hat 4.9.1-10), 64 bit)
 
@@ -13,5 +13,5 @@ this program with indonesian language
 with delay and dont freeze your gui
 Source of wav file from google voice.
 
-#if you need help contact me in rizalkartodijoyo@gmail.com 
+# IF YOU NEED HELP AND SUGESTION SEND ME EMAIL at rizalkartodijoyo@gmail.com
 ![alt text](https://github.com/RKartodijoyo/Antrianku/blob/master/ProgramAntrianku.png?raw=true)
